@@ -5,6 +5,7 @@ import { fadeInUp, fadeIn, staggerContainer, slideInLeft, slideInRight, viewport
 import { testimonials } from '../data/testimonials';
 import { getLocalBusinessSchema, getWebsiteSchema, getOrganizationSchema, jsonLdScript } from '../utils/seo';
 import SectionHeading from '../components/ui/SectionHeading';
+import { asset } from '../utils/assets';
 
 const featuredServices = [
   { name: 'Relaks masaža', slug: 'relaks-masaza-celog-tela', icon: '✦', desc: 'Potpuno opuštanje tela i uma' },
@@ -47,7 +48,7 @@ export default function Home() {
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-charcoal">
           <img
-            src="/images/mila-u-studiju.png"
+            src={asset("/images/mila-u-studiju.png")}
             alt="Studio Milina — profesionalna masaža u Nišu"
             className="absolute inset-0 w-full h-full object-cover"
           />
@@ -132,7 +133,7 @@ export default function Home() {
               viewport={viewportConfig}
             >
               <img
-                src="/images/mila-djordjevic.png"
+                src={asset("/images/mila-djordjevic.png")}
                 alt="Mila Đorđević — diplomirana terapetkinja, Studio Milina Niš"
                 className="rounded-xl object-cover w-full aspect-[3/4]"
                 loading="lazy"

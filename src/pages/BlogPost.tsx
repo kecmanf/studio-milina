@@ -5,6 +5,7 @@ import { fadeInUp, fadeIn, viewportConfig } from '../hooks/useScrollReveal';
 import { getBlogPostBySlug, blogPosts } from '../data/blogPosts';
 import { getBlogPostSchema, getBreadcrumbSchema, getLocalBusinessSchema, jsonLdScript } from '../utils/seo';
 import Breadcrumb from '../components/ui/Breadcrumb';
+import { asset } from '../utils/assets';
 
 const blogImages: Record<string, string> = {
   'zasto-redovna-masaza': '/images/mila-u-studiju.png',
@@ -91,7 +92,7 @@ export default function BlogPost() {
             className="mb-10"
           >
             <img
-              src={blogImages[post.slug] || '/images/mila-u-studiju.png'}
+              src={asset(blogImages[post.slug] || '/images/mila-u-studiju.png')}
               alt={post.imageAlt}
               className="w-full h-64 md:h-96 object-cover rounded-xl"
               loading="lazy"
@@ -187,7 +188,7 @@ export default function BlogPost() {
                   >
                     <div className="bg-cream-dark">
                       <img
-                        src={blogImages[p.slug] || '/images/mila-u-studiju.png'}
+                        src={asset(blogImages[p.slug] || '/images/mila-u-studiju.png')}
                         alt={p.imageAlt}
                         className="w-full h-auto max-h-40 object-contain mx-auto"
                         loading="lazy"

@@ -6,6 +6,7 @@ import { getServiceBySlug, getRelatedServices } from '../data/services';
 import { getServiceSchema, getBreadcrumbSchema, getLocalBusinessSchema, getFAQSchema, jsonLdScript } from '../utils/seo';
 import Breadcrumb from '../components/ui/Breadcrumb';
 import Accordion from '../components/ui/Accordion';
+import { asset } from '../utils/assets';
 
 const serviceImages: Record<string, string> = {
   'relaks-masaza-celog-tela': '/images/mila-u-studiju.png',
@@ -102,7 +103,7 @@ export default function ServiceDetail() {
                 className="mb-10"
               >
                 <img
-                  src={serviceImages[service.slug] || '/images/mila-u-studiju.png'}
+                  src={asset(serviceImages[service.slug] || '/images/mila-u-studiju.png')}
                   alt={service.imageAlt}
                   className="w-full h-64 md:h-96 object-cover rounded-xl mb-10"
                   loading="lazy"

@@ -5,6 +5,7 @@ import { fadeInUp, staggerContainer, slideInLeft, slideInRight, viewportConfig }
 import { getLocalBusinessSchema, getBreadcrumbSchema, jsonLdScript } from '../utils/seo';
 import Breadcrumb from '../components/ui/Breadcrumb';
 import SectionHeading from '../components/ui/SectionHeading';
+import { asset } from '../utils/assets';
 
 const milestones = [
   { year: '[GODINA]', title: 'Završen Fakultet sporta i fizičkog vaspitanja (DIF)', desc: 'Diploma iz oblasti fizičke kulture' },
@@ -82,7 +83,7 @@ export default function About() {
               viewport={viewportConfig}
             >
               <img
-                src="/images/mila-djordjevic.png"
+                src={asset("/images/mila-djordjevic.png")}
                 alt="Mila Đorđević — diplomirana terapetkinja, Studio Milina Niš"
                 className="rounded-xl object-cover w-full aspect-[3/4]"
                 loading="lazy"
@@ -225,7 +226,7 @@ export default function About() {
             ].map((img, i) => (
               <motion.div key={i} variants={fadeInUp}>
                 <img
-                  src={img.src}
+                  src={asset(img.src)}
                   alt={img.alt}
                   className={`rounded-xl object-cover w-full ${i === 0 || i === 5 ? 'aspect-video' : 'aspect-square'}`}
                   loading="lazy"

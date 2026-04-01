@@ -5,6 +5,7 @@ import { fadeInUp, staggerContainer, viewportConfig } from '../hooks/useScrollRe
 import { blogPosts } from '../data/blogPosts';
 import { getLocalBusinessSchema, getBreadcrumbSchema, jsonLdScript } from '../utils/seo';
 import Breadcrumb from '../components/ui/Breadcrumb';
+import { asset } from '../utils/assets';
 
 const blogImages: Record<string, string> = {
   'zasto-redovna-masaza': '/images/mila-u-studiju.png',
@@ -79,7 +80,7 @@ export default function Blog() {
                 >
                   <div className="bg-cream-dark">
                     <img
-                      src={blogImages[post.slug] || '/images/mila-u-studiju.png'}
+                      src={asset(blogImages[post.slug] || '/images/mila-u-studiju.png')}
                       alt={post.imageAlt}
                       className="w-full h-auto max-h-64 object-contain mx-auto"
                       loading="lazy"

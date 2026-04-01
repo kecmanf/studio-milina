@@ -6,6 +6,7 @@ import { serviceCategories } from '../data/services';
 import { getLocalBusinessSchema, jsonLdScript } from '../utils/seo';
 import SectionHeading from '../components/ui/SectionHeading';
 import Breadcrumb from '../components/ui/Breadcrumb';
+import { asset } from '../utils/assets';
 
 const serviceImages: Record<string, string> = {
   'relaks-masaza-celog-tela': '/images/mila-u-studiju.png',
@@ -91,7 +92,7 @@ export default function Services() {
                     >
                       <div className="bg-cream-dark">
                         <img
-                          src={serviceImages[service.slug] || '/images/mila-u-studiju.png'}
+                          src={asset(serviceImages[service.slug] || '/images/mila-u-studiju.png')}
                           alt={service.imageAlt}
                           className="w-full h-auto max-h-56 object-contain mx-auto"
                           loading="lazy"
