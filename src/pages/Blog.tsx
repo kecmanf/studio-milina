@@ -14,6 +14,11 @@ const blogImages: Record<string, string> = {
   'anti-celulit-masaza-maderoterapija': '/images/ambijent-studija.jpg',
   'masaza-u-trudnoci': '/images/mila-djordjevic.png',
   'priprema-za-prvu-masazu': '/images/masaza-ledja.jpg',
+  'masaza-kod-bolova-u-ledjima': '/images/masaza-ledja.jpg',
+  'hot-stone-masaza-sve-sto-treba-da-znate': '/images/ambijent-studija.jpg',
+  'masaza-lica-za-zdravu-kozu': '/images/mila-djordjevic.png',
+  'benefiti-limfne-drenaze': '/images/mila-u-studiju.png',
+  'aromaterapija-lekovita-moc-etarskih-ulja': '/images/ambijent-studija.jpg',
 };
 
 export default function Blog() {

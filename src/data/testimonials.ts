@@ -6,7 +6,7 @@ export interface Testimonial {
   source: string;
 }
 
-// Prave Google recenzije — Studio za masažu Milina, Zmaja od Noćaja 15, Niš
+// Prave Google recenzije - Studio za masažu Milina, Zmaja od Noćaja 15, Niš
 export const testimonials: Testimonial[] = [
   {
     id: 1,

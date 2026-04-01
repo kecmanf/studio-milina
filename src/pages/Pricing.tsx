@@ -122,7 +122,7 @@ export default function Pricing() {
               +381 66 80 60 301
             </a>
             <a
-              href="https://wa.me/381668060301"
+              href="https://wa.me/381668060301?text=Zdravo%2C%20%C5%BEelim%20da%20zaka%C5%BEem%20masa%C5%BEu."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-3 bg-[#25D366] text-white rounded-lg hover:bg-[#20BD5A] transition-colors font-semibold"

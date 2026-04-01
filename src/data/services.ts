@@ -39,7 +39,7 @@ export const services: Service[] = [
       "Potpuno opuštanje tela i uma uz nežne, ritmiče pokrete koji otklanjaju stres i napetost.",
     fullDescription: [
       "Relaks masaža celog tela u Studio Milina je tretman osmišljen da vam pruži potpuno opuštanje i odmor od svakodnevnog stresa. Ova masaža koristi nežne, duge i ritmiče pokrete koji stimulišu cirkulaciju, smanjuju mišićnu napetost i donose duboko osećanje mira.",
-      "Tokom tretmana koji traje 60 minuta, diplomirana terapetkinja Mila Đorđević pažljivo obrađuje svaki deo tela — od stopala, preko nogu i leđa, do ramena, ruku i vrata. Pritisak je blag do umeren i prilagođava se vašim potrebama i preferencijama.",
+      "Tokom tretmana koji traje 60 minuta, diplomirana terapetkinja Mila Đorđević pažljivo obrađuje svaki deo tela - od stopala, preko nogu i leđa, do ramena, ruku i vrata. Pritisak je blag do umeren i prilagođava se vašim potrebama i preferencijama.",
       "Relaks masaža je idealna za sve koji žele da pobegnu od brzog tempa života, smanje nivo kortizola (hormona stresa) i poboljšaju kvalitet sna. Nakon tretmana, osećaćete se osveženo, opušteno i puno energije.",
       "U Studio Milina u Nišu koristimo kvalitetna ulja koja neguju kožu i doprinose celokupnom doživljaju masaže. Ambijent studija je posebno dizajniran da pruži osećaj mira i udobnosti od trenutka kada uđete.",
     ],
@@ -100,11 +100,11 @@ export const services: Service[] = [
     duration: "30 min",
     price: "[CENA]",
     shortDescription:
-      "Ciljano opuštanje odabranih delova tela — idealno za brzi predah od stresa.",
+      "Ciljano opuštanje odabranih delova tela - idealno za brzi predah od stresa.",
     fullDescription: [
       "Relaks parcijalna masaža je kraći tretman fokusiran na specifične delove tela koji vam najviše trebaju. Bilo da su to leđa, ramena, noge ili ruke, Mila će prilagoditi tretman vašim potrebama.",
       "Ovaj tretman od 30 minuta je savršen za ljude koji nemaju vremena za punu masažu, ali žele da osete blagodeti relaksacije. Koriste se nežni, ritmiči pokreti koji efikasno otklanjaju napetost iz ciljanih zona.",
-      "Parcijalna relaks masaža je odlična opcija za redovno održavanje — možete je kombinovati sa drugim tretmanima ili je koristiti kao samostalan tretman kada vam je potrebno brzo opuštanje.",
+      "Parcijalna relaks masaža je odlična opcija za redovno održavanje - možete je kombinovati sa drugim tretmanima ili je koristiti kao samostalan tretman kada vam je potrebno brzo opuštanje.",
     ],
     benefits: [
       "Ciljano opuštanje problematičnih zona",
@@ -124,7 +124,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Relaks masaža parcijalna Niš | Studio Milina",
     metaDescription:
-      "Parcijalna relaks masaža u Nišu — 30 minuta ciljanog opuštanja. Zakažite u Studio Milina.",
+      "Parcijalna relaks masaža u Nišu - 30 minuta ciljanog opuštanja. Zakažite u Studio Milina.",
     imageAlt: "Parcijalna relaks masaža u Studio Milina Niš",
     imagePlaceholder: "[Slika: Parcijalna relaks masaža]",
     faq: [
@@ -132,7 +132,7 @@ export const services: Service[] = [
         question:
           "Koji deo tela mogu da odaberem za parcijalnu relaks masažu?",
         answer:
-          "Možete odabrati bilo koji deo tela koji vam je najpotrebniji — leđa, ramena, noge, ruke ili vrat. Na početku tretmana razgovaraćete sa Milom o tome gde osećate najveću napetost, i ona će prilagoditi masažu vašim potrebama.",
+          "Možete odabrati bilo koji deo tela koji vam je najpotrebniji - leđa, ramena, noge, ruke ili vrat. Na početku tretmana razgovaraćete sa Milom o tome gde osećate najveću napetost, i ona će prilagoditi masažu vašim potrebama.",
       },
       {
         question: "Da li je 30 minuta dovoljno za relaks masažu?",
@@ -157,8 +157,8 @@ export const services: Service[] = [
     shortDescription:
       "Kombinacija nežne masaže i aromatičnih etarskih ulja za duboko opuštanje svih čula.",
     fullDescription: [
-      "Aromaterapija masaža u Studio Milina kombinuje blagodeti klasične relaks masaže sa lekovitim svojstvima etarskih ulja. Svaki tretman počinje odabirom ulja koje najbolje odgovara vašim potrebama — lavanda za opuštanje, eukaliptus za osveženje, ili ruzmarin za energiju.",
-      "Tokom 60 minuta, Mila koristi specifične tehnike masaže koje omogućavaju duboku apsorpciju etarskih ulja kroz kožu, dok njihov miris deluje na limbički sistem mozga — centar za emocije i pamćenje. Rezultat je sveobuhvatno opuštanje na fizičkom, mentalnom i emocionalnom nivou.",
+      "Aromaterapija masaža u Studio Milina kombinuje blagodeti klasične relaks masaže sa lekovitim svojstvima etarskih ulja. Svaki tretman počinje odabirom ulja koje najbolje odgovara vašim potrebama - lavanda za opuštanje, eukaliptus za osveženje, ili ruzmarin za energiju.",
+      "Tokom 60 minuta, Mila koristi specifične tehnike masaže koje omogućavaju duboku apsorpciju etarskih ulja kroz kožu, dok njihov miris deluje na limbički sistem mozga - centar za emocije i pamćenje. Rezultat je sveobuhvatno opuštanje na fizičkom, mentalnom i emocionalnom nivou.",
       "Aromaterapija je posebno efikasna za smanjenje anksioznosti, poboljšanje raspoloženja i ublažavanje hroničnog stresa. Ova masaža ne samo da opušta telo već i harmonizuje um.",
       "U Studio Milina u Nišu koristimo isključivo visokokvalitetna, čista etarska ulja koja su bezbedna za kožu i pružaju maksimalne terapeutske efekte.",
     ],
@@ -188,7 +188,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Aromaterapija masaža Niš | Studio Milina",
     metaDescription:
-      "Aromaterapija masaža u Nišu sa etarskim uljima. 60 minuta holistikog opuštanja. Studio Milina — zakažite termin.",
+      "Aromaterapija masaža u Nišu sa etarskim uljima. 60 minuta holistikog opuštanja. Studio Milina - zakažite termin.",
     imageAlt: "Aromaterapija masaža sa etarskim uljima Studio Milina Niš",
     imagePlaceholder: "[Slika: Aromaterapija masaža]",
     faq: [
@@ -299,7 +299,7 @@ export const services: Service[] = [
       "Intenzivan rad na specifičnoj zoni tela za brzo otklanjanje bolova i ukočenosti.",
     fullDescription: [
       "Terapeutska parcijalna masaža je fokusiran tretman od 30 minuta koji cilja specifično problematično područje. Idealna je kada znate tačno gde vas boli i želite efikasno rešenje.",
-      "Mila koristi duboke, ciljane tehnike masaže da obradi problematičnu zonu — bilo da se radi o leđima, vratu, ramenima, nogama ili rukama. Intenzitet se prilagođava vašem pragu tolerancije i specifičnim tegobama.",
+      "Mila koristi duboke, ciljane tehnike masaže da obradi problematičnu zonu - bilo da se radi o leđima, vratu, ramenima, nogama ili rukama. Intenzitet se prilagođava vašem pragu tolerancije i specifičnim tegobama.",
       "Ovaj tretman je odličan izbor za redovno održavanje ili kao dopuna punoj terapeutskoj masaži. Mnogi klijenti u Nišu ga biraju kao brzo i efikasno rešenje za nakupljenu napetost.",
     ],
     benefits: [
@@ -320,7 +320,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Terapeutska masaža parcijalna Niš | Studio Milina",
     metaDescription:
-      "Parcijalna terapeutska masaža u Nišu — 30 minuta ciljanog tretmana za otklanjanje bolova. Studio Milina.",
+      "Parcijalna terapeutska masaža u Nišu - 30 minuta ciljanog tretmana za otklanjanje bolova. Studio Milina.",
     imageAlt: "Parcijalna terapeutska masaža Studio Milina Niš",
     imagePlaceholder: "[Slika: Parcijalna terapeutska masaža]",
     faq: [
@@ -328,7 +328,7 @@ export const services: Service[] = [
         question:
           "Kada je bolje izabrati parcijalnu umesto pune terapeutske masaže?",
         answer:
-          "Parcijalna terapeutska masaža je idealna kada imate lokalizovan problem — na primer bol samo u vratu ili ramenima — i želite intenzivan fokusiran rad na toj zoni. Ako imate tegobe u više delova tela ili želite kompletnu obradu, bolja opcija je terapeutska masaža celog tela.",
+          "Parcijalna terapeutska masaža je idealna kada imate lokalizovan problem - na primer bol samo u vratu ili ramenima - i želite intenzivan fokusiran rad na toj zoni. Ako imate tegobe u više delova tela ili želite kompletnu obradu, bolja opcija je terapeutska masaža celog tela.",
       },
       {
         question:
@@ -356,7 +356,7 @@ export const services: Service[] = [
       "Najtraženiji tretman za otklanjanje bolova i napetosti u leđima, vratu i ramenima.",
     fullDescription: [
       "Masaža leđa i vrata je jedan od najpopularnijih tretmana u Studio Milina u Nišu, i to sa dobrim razlogom. Leđa, vrat i ramena su zone u kojima se nakuplja najveći deo napetosti, posebno kod ljudi koji duge sate provode za računarom ili u nepravilnom položaju.",
-      "Tokom 30 minuta, Mila se fokusira na mišiće duž kičmenog stuba, trapezijus mišiće ramena i mišiće vrata. Koristi kombinaciju tehnika — od nežnog zagrevanja do dubinskog rada na trigger tačkama koje su izvor bola.",
+      "Tokom 30 minuta, Mila se fokusira na mišiće duž kičmenog stuba, trapezijus mišiće ramena i mišiće vrata. Koristi kombinaciju tehnika - od nežnog zagrevanja do dubinskog rada na trigger tačkama koje su izvor bola.",
       "Ovaj tretman je posebno efikasan za osobe sa cervikalnim sindromom, tenzione glavobolje, kao i za sve koji osećaju ukočenost i bol u gornjem delu tela. Redovna masaža leđa i vrata može značajno poboljšati kvalitet svakodnevnog života.",
     ],
     benefits: [
@@ -380,7 +380,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Masaža leđa i vrata Niš | Studio Milina",
     metaDescription:
-      "Masaža leđa i vrata u Nišu. Otklonite bolove i napetost u 30 minuta. Studio Milina — diplomirana terapetkinja.",
+      "Masaža leđa i vrata u Nišu. Otklonite bolove i napetost u 30 minuta. Studio Milina - diplomirana terapetkinja.",
     imageAlt: "Masaža leđa i vrata u Studio Milina Niš",
     imagePlaceholder: "[Slika: Masaža leđa i vrata]",
     faq: [
@@ -388,7 +388,7 @@ export const services: Service[] = [
         question:
           "Da li masaža leđa pomaže kod bolova od sedenja za računarom?",
         answer:
-          "Apsolutno. Masaža leđa i vrata je najtraženiji tretman upravo kod ljudi koji duge sate provode za računarom. Tretman cilja mišiće koji su najopterećeniji od sedentarnog načina rada — trapezijus, mišiće vrata i paravertebralne mišiće duž kičme.",
+          "Apsolutno. Masaža leđa i vrata je najtraženiji tretman upravo kod ljudi koji duge sate provode za računarom. Tretman cilja mišiće koji su najopterećeniji od sedentarnog načina rada - trapezijus, mišiće vrata i paravertebralne mišiće duž kičme.",
       },
       {
         question: "Koliko košta masaža leđa i vrata u Nišu?",
@@ -450,7 +450,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Deep tissue masaža Niš | Studio Milina",
     metaDescription:
-      "Deep tissue masaža u Nišu — dubinski rad na mišićima za otklanjanje hroničnih bolova. Studio Milina, diplomirana terapetkinja.",
+      "Deep tissue masaža u Nišu - dubinski rad na mišićima za otklanjanje hroničnih bolova. Studio Milina, diplomirana terapetkinja.",
     imageAlt: "Deep tissue masaža u Studio Milina Niš",
     imagePlaceholder: "[Slika: Deep tissue masaža]",
     faq: [
@@ -488,10 +488,10 @@ export const services: Service[] = [
     duration: "60 min",
     price: "[CENA]",
     shortDescription:
-      "Specijalizovana masaža za sportiste — ubrzava oporavak, poboljšava performanse i sprečava povrede.",
+      "Specijalizovana masaža za sportiste - ubrzava oporavak, poboljšava performanse i sprečava povrede.",
     fullDescription: [
       "Sportska masaža celog tela u Studio Milina je specijalizovan tretman dizajniran za aktivne ljude i sportiste. Mila Đorđević, zahvaljujući svom obrazovanju na Fakultetu sporta i fizičkog vaspitanja, duboko razume fiziologiju sporta i specifične potrebe sportista.",
-      "Ovaj tretman od 60 minuta kombinuje različite tehnike — od dubokih frikcija i kompresija do istezanja i mobilizacije zglobova. Cilj je ubrzanje oporavka nakon treninga ili takmičenja, prevencija povreda i poboljšanje ukupnih sportskih performansi.",
+      "Ovaj tretman od 60 minuta kombinuje različite tehnike - od dubokih frikcija i kompresija do istezanja i mobilizacije zglobova. Cilj je ubrzanje oporavka nakon treninga ili takmičenja, prevencija povreda i poboljšanje ukupnih sportskih performansi.",
       "Sportska masaža pomaže u otklanjanju mlečne kiseline iz mišića, smanjuje upalu, poboljšava elastičnost mišićnog tkiva i povećava opseg pokreta u zglobovima. Bilo da ste profesionalni sportista ili rekreativac, ovaj tretman će vam pomoći da se brže oporavite i bolje performirate.",
       "U Nišu, Studio Milina je jedan od retkih studija koji nudi sportsku masažu od strane terapeuta sa formalnim obrazovanjem u oblasti sporta, što garantuje stručan i bezbedan pristup.",
     ],
@@ -517,7 +517,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Sportska masaža celog tela Niš | Studio Milina",
     metaDescription:
-      "Sportska masaža u Nišu za sportiste i aktivne ljude. Ubrzajte oporavak i poboljšajte performanse. Studio Milina — DIF diploma.",
+      "Sportska masaža u Nišu za sportiste i aktivne ljude. Ubrzajte oporavak i poboljšajte performanse. Studio Milina - DIF diploma.",
     imageAlt: "Sportska masaža celog tela Studio Milina Niš",
     imagePlaceholder: "[Slika: Sportska masaža]",
     faq: [
@@ -529,7 +529,7 @@ export const services: Service[] = [
       },
       {
         question:
-          "Kada je najbolje zakazati sportsku masažu — pre ili posle treninga?",
+          "Kada je najbolje zakazati sportsku masažu - pre ili posle treninga?",
         answer:
           "Zavisi od cilja. Pre treninga ili takmičenja, kratka sportska masaža pomaže u zagrevanju i pripremi mišića. Posle treninga, masaža ubrzava oporavak i smanjuje upalu. Za kompletni oporavak, preporučuje se masaža 24 do 48 sati nakon intenzivnog treninga.",
       },
@@ -537,7 +537,7 @@ export const services: Service[] = [
         question:
           "Da li sportsku masažu mogu raditi i rekreativci, a ne samo profesionalni sportisti?",
         answer:
-          "Naravno! Sportska masaža je korisna za svakoga ko je fizički aktivan — od rekreativnih trkača i fitnes entuzijasta do vikend sportista. Mila prilagođava intenzitet i tehniku vašem nivou aktivnosti i specifičnim potrebama.",
+          "Naravno! Sportska masaža je korisna za svakoga ko je fizički aktivan - od rekreativnih trkača i fitnes entuzijasta do vikend sportista. Mila prilagođava intenzitet i tehniku vašem nivou aktivnosti i specifičnim potrebama.",
       },
       {
         question: "Koliko košta sportska masaža u Nišu?",
@@ -557,7 +557,7 @@ export const services: Service[] = [
     shortDescription:
       "Ciljana sportska masaža fokusirana na najopterećenije mišićne grupe.",
     fullDescription: [
-      "Sportska parcijalna masaža je kraći, fokusirani tretman od 30 minuta namenjen sportistima koji trebaju ciljani rad na specifičnim mišićnim grupama — najčešće nogama, leđima ili ramenima.",
+      "Sportska parcijalna masaža je kraći, fokusirani tretman od 30 minuta namenjen sportistima koji trebaju ciljani rad na specifičnim mišićnim grupama - najčešće nogama, leđima ili ramenima.",
       "Ovaj tretman je idealan pre ili nakon treninga, kada vam je potreban brz ali efikasan oporavak ciljanih mišićnih grupa. Mila koristi intenzivne sportske tehnike prilagođene vašem sportu i specifičnim potrebama.",
       "Mnogi sportisti u Nišu koriste parcijalnu sportsku masažu kao redovni deo svog trenažnog režima, što im pomaže da održe optimalne performanse i smanje rizik od povreda.",
     ],
@@ -579,7 +579,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Sportska masaža parcijalna Niš | Studio Milina",
     metaDescription:
-      "Parcijalna sportska masaža u Nišu — 30 minuta ciljanog oporavka za sportiste. Studio Milina.",
+      "Parcijalna sportska masaža u Nišu - 30 minuta ciljanog oporavka za sportiste. Studio Milina.",
     imageAlt: "Parcijalna sportska masaža Studio Milina Niš",
     imagePlaceholder: "[Slika: Parcijalna sportska masaža]",
     faq: [
@@ -587,7 +587,7 @@ export const services: Service[] = [
         question:
           "Koje mišićne grupe se najčešće tretiraju parcijalnom sportskom masažom?",
         answer:
-          "Najčešće se radi na nogama (butine, listovi, kvadricepsi), leđima ili ramenima — zavisno od sporta kojim se bavite. Trkači obično traže masažu nogu, dok teniseri ili plivači češće trebaju rad na ramenima i rukama.",
+          "Najčešće se radi na nogama (butine, listovi, kvadricepsi), leđima ili ramenima - zavisno od sporta kojim se bavite. Trkači obično traže masažu nogu, dok teniseri ili plivači češće trebaju rad na ramenima i rukama.",
       },
       {
         question:
@@ -645,7 +645,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Anti celulit masaža Niš | Studio Milina",
     metaDescription:
-      "Anti celulit masaža u Nišu — efikasno smanjenje celulita i poboljšanje izgleda kože. Zakažite u Studio Milina.",
+      "Anti celulit masaža u Nišu - efikasno smanjenje celulita i poboljšanje izgleda kože. Zakažite u Studio Milina.",
     imageAlt: "Anti celulit masaža u Studio Milina Niš",
     imagePlaceholder: "[Slika: Anti celulit masaža]",
     faq: [
@@ -685,7 +685,7 @@ export const services: Service[] = [
       "Tretman drvenim instrumentima koji efikasno razgrađuje celulit i oblikuje telo.",
     fullDescription: [
       'Maderoterapija je inovativna tehnika masaže koja koristi specijalno dizajnirane drvene instrumente za tretiranje celulita, oblikovanje tela i poboljšanje tonusa kože. Reč „madero" dolazi od španske reči za drvo, a ova tehnika potiče iz Kolumbije.',
-      "U Studio Milina u Nišu, Mila koristi set profesionalnih drvenih instrumenata različitih oblika — valjke, činije, kockice i druge — svaki dizajniran za specifičnu namenu i deo tela. Drveni instrumenti omogućavaju intenzivniji pritisak i bolju stimulaciju tkiva nego što je moguće samo rukama.",
+      "U Studio Milina u Nišu, Mila koristi set profesionalnih drvenih instrumenata različitih oblika - valjke, činije, kockice i druge - svaki dizajniran za specifičnu namenu i deo tela. Drveni instrumenti omogućavaju intenzivniji pritisak i bolju stimulaciju tkiva nego što je moguće samo rukama.",
       "Tretman od 45 minuta uključuje intenzivan rad na najčešće zahvaćenim zonama: butine, stomak, bokovi i zadnjica. Maderoterapija je odlična alternativa ili dopuna klasičnoj anti celulit masaži, a mnoge klijentice prijavljuju vidljive rezultate već nakon prvih nekoliko tretmana.",
       "Za najbolje rezultate, preporučuje se serija od 10 do 15 tretmana, dva puta nedeljno, uz zdrav način života.",
     ],
@@ -716,7 +716,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Maderoterapija Niš | Studio Milina",
     metaDescription:
-      "Maderoterapija u Nišu — oblikovanje tela i smanjenje celulita drvenim instrumentima. Studio Milina, sertifikovana terapetkinja.",
+      "Maderoterapija u Nišu - oblikovanje tela i smanjenje celulita drvenim instrumentima. Studio Milina, sertifikovana terapetkinja.",
     imageAlt: "Maderoterapija tretman u Studio Milina Niš",
     imagePlaceholder: "[Slika: Maderoterapija tretman]",
     faq: [
@@ -757,7 +757,7 @@ export const services: Service[] = [
       "Nežna i bezbedna masaža prilagođena potrebama trudnica za olakšanje tegoba u trudnoći.",
     fullDescription: [
       "Masaža trudnica u Studio Milina je posebno prilagođen tretman koji pomaže budućim mamama da se nose sa fizičkim promenama i tegobama koje trudnoća donosi. Mila Đorđević poseduje specijalizovane sertifikate za rad sa trudnicama i poznaje sve specifičnosti ovog delikatnog perioda.",
-      "Tokom 45 minuta, koriste se isključivo nežne i bezbedne tehnike, sa posebnim položajem tela koji obezbeđuje udobnost i sigurnost za mamu i bebu. Posebna pažnja se poklanja leđima, nogama i stopalima — zonama koje su najopterećenije tokom trudnoće.",
+      "Tokom 45 minuta, koriste se isključivo nežne i bezbedne tehnike, sa posebnim položajem tela koji obezbeđuje udobnost i sigurnost za mamu i bebu. Posebna pažnja se poklanja leđima, nogama i stopalima - zonama koje su najopterećenije tokom trudnoće.",
       "Masaža trudnica pomaže u ublažavanju bolova u leđima, smanjenju otoka nogu i stopala, poboljšanju cirkulacije i smanjenju stresa i anksioznosti. Mnoge trudnice u Nišu beleže da im redovna masaža značajno poboljšava kvalitet sna i opšte raspoloženje.",
       "Preporučuje se od drugog trimestra trudnoće (nakon 12. nedelje) i uz prethodni pristanak ginekologa. U Studio Milina, bezbednost i udobnost trudnice su uvek na prvom mestu.",
     ],
@@ -788,7 +788,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Masaža trudnica Niš | Studio Milina",
     metaDescription:
-      "Bezbedna masaža za trudnice u Nišu. Ublažite bolove i opustite se tokom trudnoće. Studio Milina — sertifikovana terapetkinja.",
+      "Bezbedna masaža za trudnice u Nišu. Ublažite bolove i opustite se tokom trudnoće. Studio Milina - sertifikovana terapetkinja.",
     imageAlt: "Masaža trudnica u Studio Milina Niš",
     imagePlaceholder: "[Slika: Masaža trudnica]",
     faq: [
@@ -850,7 +850,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Masaža lica i vrata Niš | Studio Milina",
     metaDescription:
-      "Masaža lica i vrata u Nišu — osvežavanje, opuštanje i bolji ten. 30 minuta u Studio Milina.",
+      "Masaža lica i vrata u Nišu - osvežavanje, opuštanje i bolji ten. 30 minuta u Studio Milina.",
     imageAlt: "Masaža lica i vrata Studio Milina Niš",
     imagePlaceholder: "[Slika: Masaža lica i vrata]",
     faq: [
@@ -881,11 +881,11 @@ export const services: Service[] = [
     duration: "30 min",
     price: "[CENA]",
     shortDescription:
-      "Refleksologija stopala — stimulacija refleksnih tačaka za poboljšanje zdravlja celog organizma.",
+      "Refleksologija stopala - stimulacija refleksnih tačaka za poboljšanje zdravlja celog organizma.",
     fullDescription: [
       "Refleksologija (masaža stopala) je drevna tehnika koja se zasniva na principu da na stopalima postoje refleksne tačke koje odgovaraju svim organima i sistemima u telu. Stimulacijom ovih tačaka, pomaže se telu da postigne prirodnu ravnotežu i poboljša funkcionisanje.",
       "Tokom 30 minuta, Mila precizno obrađuje svako stopalo, primenjujući pritisak na specifične refleksne zone. Tretman počinje opuštanjem stopala, a zatim se prelazi na ciljanu stimulaciju tačaka koje odgovaraju vašim zdravstvenim potrebama.",
-      "Refleksologija može pomoći kod najrazličitijih tegoba — od problema sa varenjem i glavobolja, do nesanice i hormonskog disbalansa. Osim specifičnih benefita, ovaj tretman pruža duboko opuštanje i osećaj blagostanja.",
+      "Refleksologija može pomoći kod najrazličitijih tegoba - od problema sa varenjem i glavobolja, do nesanice i hormonskog disbalansa. Osim specifičnih benefita, ovaj tretman pruža duboko opuštanje i osećaj blagostanja.",
       "U Studio Milina u Nišu, refleksologija je jedan od omiljenih tretmana među klijentima koji preferiraju holistički pristup zdravlju.",
     ],
     benefits: [
@@ -909,7 +909,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Reflexology masaža stopala Niš | Studio Milina",
     metaDescription:
-      "Refleksologija — masaža stopala u Nišu. Stimulacija refleksnih tačaka za zdravlje celog tela. Studio Milina.",
+      "Refleksologija - masaža stopala u Nišu. Stimulacija refleksnih tačaka za zdravlje celog tela. Studio Milina.",
     imageAlt: "Refleksologija masaža stopala Studio Milina Niš",
     imagePlaceholder: "[Slika: Refleksologija masaža stopala]",
     faq: [
@@ -947,7 +947,7 @@ export const services: Service[] = [
       "Luksuzna masaža toplim vulkanskim kamenjem koja pruža duboko opuštanje i otklanja napetost.",
     fullDescription: [
       "Hot stone masaža (masaža toplim kamenjem) je luksuzni tretman koji kombinuje klasične masažne tehnike sa terapeutskim dejstvom zagrejanih bazaltnih kamenja. Vulkanski kamen prirodno zadržava toplotu i polako je oslobađa u mišićno tkivo, omogućavajući dublje opuštanje nego što je moguće samo rukama.",
-      "Tokom 60 minuta, Mila postavlja zagrejane kamenje na ključne energetske tačke tela — duž kičmenog stuba, na dlanove, stopala i druge zone. Istovremeno koristi kamenje kao alat za masažu, kombinujući ga sa ručnim tehnikama za potpuno iskustvo.",
+      "Tokom 60 minuta, Mila postavlja zagrejane kamenje na ključne energetske tačke tela - duž kičmenog stuba, na dlanove, stopala i druge zone. Istovremeno koristi kamenje kao alat za masažu, kombinujući ga sa ručnim tehnikama za potpuno iskustvo.",
       "Toplota kamenja prodire duboko u mišiće, poboljšava cirkulaciju, otklanja napetost i stvara osećaj duboke relaksacije. Mnogi klijenti opisuju hot stone masažu kao jedno od najopuštajućih iskustava koje su doživeli.",
       "Hot stone masaža u Studio Milina u Nišu je idealan izbor za posebne prilike, poklon vauchere ili kada želite da se počastite premium tretmanom.",
     ],
@@ -978,7 +978,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Hot stone masaža Niš | Studio Milina",
     metaDescription:
-      "Hot stone masaža u Nišu — luksuzni tretman toplim vulkanskim kamenjem. 60 minuta dubokog opuštanja u Studio Milina.",
+      "Hot stone masaža u Nišu - luksuzni tretman toplim vulkanskim kamenjem. 60 minuta dubokog opuštanja u Studio Milina.",
     imageAlt: "Hot stone masaža u Studio Milina Niš",
     imagePlaceholder: "[Slika: Hot stone masaža toplim kamenjem]",
     faq: [
@@ -996,7 +996,7 @@ export const services: Service[] = [
       {
         question: "Da li je hot stone masaža dobra kao poklon?",
         answer:
-          "Hot stone masaža je jedan od najpopularnijih izbora za poklon vaučere jer pruža luksuzno iskustvo koje većina ljudi ne bi priuštila sebi u svakodnevici. U Studio Milina možete kupiti poklon vaučer za ovu ili bilo koju drugu masažu — kontaktirajte nas za detalje.",
+          "Hot stone masaža je jedan od najpopularnijih izbora za poklon vaučere jer pruža luksuzno iskustvo koje većina ljudi ne bi priuštila sebi u svakodnevici. U Studio Milina možete kupiti poklon vaučer za ovu ili bilo koju drugu masažu - kontaktirajte nas za detalje.",
       },
       {
         question: "Ko ne bi trebalo da ide na hot stone masažu?",
@@ -1017,7 +1017,7 @@ export const services: Service[] = [
       "Nežna masaža koja stimuliše limfni sistem, smanjuje otoke i poboljšava detoksikaciju organizma.",
     fullDescription: [
       "Limfna drenaža je specijalizovana tehnika masaže koja stimuliše protok limfe kroz limfni sistem. Limfni sistem je ključan za imunitet, detoksikaciju i regulaciju tečnosti u telu. Kada limfni sistem ne funkcioniše optimalno, dolazi do nakupljanja tečnosti (otoka), smanjenog imuniteta i osećaja umora.",
-      "Tokom 60 minuta, Mila koristi izuzetno nežne, ritmiče pokrete u specifičnom smeru — prateći tok limfnih sudova ka limfnim čvorovima. Ova tehnika je potpuno bezbolna i veoma opuštajuća, iako su njeni efekti duboki i dalekosežni.",
+      "Tokom 60 minuta, Mila koristi izuzetno nežne, ritmiče pokrete u specifičnom smeru - prateći tok limfnih sudova ka limfnim čvorovima. Ova tehnika je potpuno bezbolna i veoma opuštajuća, iako su njeni efekti duboki i dalekosežni.",
       "Limfna drenaža je posebno korisna nakon operacija, za smanjenje otoka, kod hroničnog umora, problema sa zadržavanjem vode i kao podrška imunološkom sistemu. Mnoge žene je koriste i kao deo anti celulit programa jer pomaže u eliminaciji toksina i viška tečnosti.",
       "U Studio Milina u Nišu, Mila je obučena za manuelnu limfnu drenažu i prilagođava tretman individualnim potrebama svakog klijenta.",
     ],
@@ -1049,7 +1049,7 @@ export const services: Service[] = [
     ],
     metaTitle: "Limfna drenaža Niš | Studio Milina",
     metaDescription:
-      "Limfna drenaža u Nišu — smanjenje otoka, detoksikacija i jačanje imuniteta. 60 minuta u Studio Milina.",
+      "Limfna drenaža u Nišu - smanjenje otoka, detoksikacija i jačanje imuniteta. 60 minuta u Studio Milina.",
     imageAlt: "Limfna drenaža masaža Studio Milina Niš",
     imagePlaceholder: "[Slika: Limfna drenaža]",
     faq: [

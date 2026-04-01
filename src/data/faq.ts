@@ -46,7 +46,7 @@ export const faqItems: FAQItem[] = [
   },
   {
     question: 'Koja je razlika između relaks i deep tissue masaže?',
-    answer: 'Relaks masaža koristi nežne, duge pokrete usmerene na opuštanje i smanjenje stresa — idealna je za odmor i regeneraciju. Deep tissue masaža koristi intenzivan pritisak koji prodire u duboke slojeve mišićnog tkiva — namenjena je otklanjanju hroničnih bolova, adhezija i mišićne ukočenosti. Relaks masaža je prijatna i umirujuća, dok deep tissue može biti intenzivna ali donosi snažne terapeutske rezultate.',
+    answer: 'Relaks masaža koristi nežne, duge pokrete usmerene na opuštanje i smanjenje stresa - idealna je za odmor i regeneraciju. Deep tissue masaža koristi intenzivan pritisak koji prodire u duboke slojeve mišićnog tkiva - namenjena je otklanjanju hroničnih bolova, adhezija i mišićne ukočenosti. Relaks masaža je prijatna i umirujuća, dok deep tissue može biti intenzivna ali donosi snažne terapeutske rezultate.',
   },
   {
     question: 'Da li mogu da dobijem poklon vaučer za masažu?',

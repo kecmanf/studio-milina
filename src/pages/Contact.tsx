@@ -240,7 +240,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-charcoal">WhatsApp</h3>
-                    <a href="https://wa.me/381668060301" target="_blank" rel="noopener noreferrer" className="text-[#25D366] hover:text-[#20BD5A] transition-colors">
+                    <a href="https://wa.me/381668060301?text=Zdravo%2C%20%C5%BEelim%20da%20zaka%C5%BEem%20masa%C5%BEu." target="_blank" rel="noopener noreferrer" className="text-[#25D366] hover:text-[#20BD5A] transition-colors">
                       Pošaljite poruku
                     </a>
                   </div>
