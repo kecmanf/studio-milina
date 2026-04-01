@@ -50,7 +50,7 @@ export default function Home() {
           <img
             src={asset("/images/mila-u-studiju.png")}
             alt="Studio Milina — profesionalna masaža u Nišu"
-            className="absolute inset-0 w-full h-full object-cover"
+            className="absolute inset-0 w-full h-full object-cover object-[center_30%]"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-charcoal/70 via-charcoal/50 to-charcoal/80" />
         </div>
